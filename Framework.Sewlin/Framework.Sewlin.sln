@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Sewlin", "Framewo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Selwin.EF", "Framework.Selwin.EF\Framework.Selwin.EF.csproj", "{90088782-BC4B-497E-A0DF-9DF943BAED6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Selwin.Report", "Framework.Selwin.Report\Framework.Selwin.Report.csproj", "{A14B0321-CB8A-48FB-BADA-7237BA76BA36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Selwin.Converter", "Framework.Selwin.Converter\Framework.Selwin.Converter.csproj", "{C5C768EE-AA99-4C40-B266-F414FC3FFFF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework.Selwin.DataHelper", "Framework.Selwin.DataHelper\Framework.Selwin.DataHelper.csproj", "{52223EC4-3294-4697-8FF3-6C57AF5C9C30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{90088782-BC4B-497E-A0DF-9DF943BAED6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90088782-BC4B-497E-A0DF-9DF943BAED6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90088782-BC4B-497E-A0DF-9DF943BAED6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14B0321-CB8A-48FB-BADA-7237BA76BA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14B0321-CB8A-48FB-BADA-7237BA76BA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14B0321-CB8A-48FB-BADA-7237BA76BA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14B0321-CB8A-48FB-BADA-7237BA76BA36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C768EE-AA99-4C40-B266-F414FC3FFFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C768EE-AA99-4C40-B266-F414FC3FFFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C768EE-AA99-4C40-B266-F414FC3FFFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C768EE-AA99-4C40-B266-F414FC3FFFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52223EC4-3294-4697-8FF3-6C57AF5C9C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52223EC4-3294-4697-8FF3-6C57AF5C9C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52223EC4-3294-4697-8FF3-6C57AF5C9C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52223EC4-3294-4697-8FF3-6C57AF5C9C30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
